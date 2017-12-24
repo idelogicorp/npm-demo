@@ -1,10 +1,10 @@
 # NPM Demo #
 
-##Installation
+## Installation
 ```javascript
 npm install riganjil/npm-demo
 ```
-##Usage
+## Usage
 ```javascript
 var ari = require('riganjil/npm-demo');
 
